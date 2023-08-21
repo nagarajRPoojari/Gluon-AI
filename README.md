@@ -37,12 +37,17 @@ Welcome to Gluon AI - the ultimate tool to enhance your Visual Studio Code exper
 
 
 ## Installation
-* download[here](https://marketplace.visualstudio.com/items?itemName=NagarajPoojari.gluon-ai).
+* download [here](https://marketplace.visualstudio.com/items?itemName=NagarajPoojari.gluon-ai).
 * or 
   1. Open Visual Studio Code.
   2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window.
   3. Search for "Gluon AI" and click Install.
   4. Once installed, you can activate the extension by clicking on its icon in the sidebar.
+<p align="center">
+<img src="https://github.com/nagarajRPoojari/Gluon-AI/assets/116948655/07362f70-57a1-46fc-90b3-7a696a8dd731"  width="600px">
+
+</p>
+
 
 ## Setup & Usage
 Make sure you have a OpenAI API key . don't have one ? see [this]().
