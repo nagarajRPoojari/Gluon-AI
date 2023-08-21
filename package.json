@@ -3,7 +3,7 @@
   "displayName": "Gluon-AI",
   "description": "",
   "publisher": "NagarajPoojari",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.81.0"
   },
