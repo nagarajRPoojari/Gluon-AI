@@ -50,7 +50,7 @@ Welcome to Gluon AI - the ultimate tool to enhance your Visual Studio Code exper
 
 
 ## Setup & Usage
-Make sure you have a OpenAI API key . don't have one ? see [this]().
+Make sure you have a OpenAI API key . don't have one ? see below.
 Enter API key in input bar at top.
 
 1. Open a project in Visual Studio Code.
@@ -75,6 +75,13 @@ We welcome contributions from the community! If you'd like to contribute to [You
 2. Create a new branch for your feature/bugfix.
 3. Make your changes and ensure tests pass.
 4. Submit a pull request explaining the changes you've made.
+
+## How to get API key ?
+
+- visit [this page](https://platform.openai.com/account/api-keys)
+- click on generate new key
+- copy to clipboard
+
 
 ## License
 
