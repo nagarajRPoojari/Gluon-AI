@@ -1,6 +1,6 @@
 {
   "name": "gluon-ai",
-  "displayName": "Gluon",
+  "displayName": "Gluon-AI",
   "description": "",
   "publisher": "NagarajPoojari",
   "version": "0.0.1",
@@ -17,6 +17,7 @@
     "type": "git",
     "url": "https://github.com/nagarajRPoojari/Gluon-AI.git"
   },
+  "icon": "imresizer-1692599006220.jpg",
   "main": "./extension.js",
   "contributes": {
     "configuration": [
